@@ -7,6 +7,8 @@ If you want purchase otp bot i recommend https://otpbot.xyz
 
 <a href="https://twilio.com" rel="nofollow">Verified Twilio Account</a>
 
-<a href="https://python.org" rel="nofollow">Python Path</a>
+<a href="https://python.org" rel="nofollow">Python PATH</a>
 
-# Requirements
+# Contact
+
+Discord @tat6
