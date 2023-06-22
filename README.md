@@ -4,7 +4,9 @@ If you dont know how to coding i cant help you unless you pay me.
 If you want purchase otp bot i recommend https://otpbot.xyz
 
 # Requirements
-<::marker></::marker>
+
 <a href="https://twilio.com" rel="nofollow">Verified Twilio Account</a>
-<::marker></::marker>
+
 <a href="https://python.org" rel="nofollow">Python Path</a>
+
+# Requirements
